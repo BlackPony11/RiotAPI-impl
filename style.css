@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+td {
+  text-align: center;
+  width: 25%;
+}
+
+.left_panel{
+  border: 1px solid black;
+  border-radius: 5px;
+  display:inline-block;
+  width:60%;
+}
+
+.right_panel{
+  border: 1px solid black;
+  border-radius: 5px;
+  display:inline-block;
+  vertical-align: top;
+  width:35%;
+}
